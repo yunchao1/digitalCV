@@ -1,0 +1,9 @@
+def introduce_myself():
+    print(f"Hello everyone! My name is Jiang Yunchao. I am originally from China and currently 37 years old.")
+    print(f"There are three of us in my family: my husband, our 10-year-old son, and myself.")
+    print(f"I consider myself a cheerful and optimistic person. I am easy-going and always remain humble.")
+    print(f"In my leisure time, I have a passion for reading and browsing the internet.")
+    print(f"To stay fit and relaxed, I enjoy cycling every day.")
+    print(f"On weekends, you can find me shopping or traveling with my lovely family.")
+
+introduce_myself()
